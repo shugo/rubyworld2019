@@ -35,7 +35,7 @@ A story of an ISUCON9 looser
 * 会社から参加
 * 598組中30組が本選進出
 
-## 予選問題
+## 予選のお題
 
 * 椅子専用のフリマアプリISUCARI
 * React.jsを使ったSPA
@@ -56,6 +56,13 @@ A story of an ISUCON9 looser
 ## 本選
 
 ![yhara_and_sada](yhara_and_sada.jpg)
+
+## 本選のお題
+
+* 超高速鉄道の乗車券販売サイトISUXPRESS予約
+* docker-composeを使用
+* 予約可能日数をデフォルトの10日から366日まで変更可能
+  * 日数を長くするとアクセスが増える
 
 ## 本選でやったこと
 
