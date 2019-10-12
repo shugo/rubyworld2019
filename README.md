@@ -13,6 +13,8 @@ A story of an ISUCON9 looser
 * 業務内容
   * 受託開発、運用保守、教育
 * Rubyの会社
+  * 必要に応じて他の言語（C・C++・C#・Goなど）も使う
+* プログラミング好き・Excel嫌いな人が多い
 * まつもとさんが（たまに）いる
 
 ## ISUCONとは
@@ -53,7 +55,7 @@ A story of an ISUCON9 looser
 * え、東京行かないといけないの？
 * そうだ、出張にしよう！
 
-## 本選
+## 本選@LINEオフィス
 
 ![yhara_and_sada](yhara_and_sada.jpg)
 
