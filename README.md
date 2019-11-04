@@ -208,6 +208,10 @@ end
 
 ![result](result.jpg)
 
+## まあRubyだし仕方ない？
+
+* 上位チームはGoが多い
+
 ## 優勝チーム
 
 ![shirokane](shirokane.jpg)
